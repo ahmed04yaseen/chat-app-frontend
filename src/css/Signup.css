@@ -1,0 +1,54 @@
+.mainImage {
+  width: 100%;
+}
+.signup_boxDivSmall{
+    background-color: white;
+    width: 70%;
+  box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px,
+    rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+  margin: 10px 20px 50px 20px;
+  padding: 20px 10px;
+  border-radius: 5px;
+}
+.signup_boxDiv {
+    background-color: white;
+    width: 70%;
+  box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px,
+    rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+  margin: 50px 20px 20px 20px;
+  padding: 40px 10px;
+  border-radius: 5px;
+}
+
+.su_main_head{
+    font-size: 28px;
+    text-align: center;
+    font-family: muli-bold;
+    font-weight: bolder;
+}
+.su_title_desc{
+    font-size: 22px;
+    font-family: muli-regular;
+    text-align: center;
+    margin-bottom: 15px;
+}
+.su_label{
+    font-size: 20px;
+    font-family: muli-regular;
+}
+.su_btn{
+    background-color: #047c5c;
+    color: white;
+    border-radius: 5px;
+    padding: 7px;
+    text-align: center;
+    margin-top: 20px;
+    cursor: pointer;
+}
+.su_link{
+  color: skyblue;
+  text-decoration: none;
+}
+.su_link:hover {
+  color: blue
+}

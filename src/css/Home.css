@@ -1,0 +1,100 @@
+.home_leftDiv{
+    background-color: #dfdfdf;
+    height: calc(100vh - 56px);
+    padding: 20px !important;
+    overflow-y: auto;
+
+}
+.home_search{
+    width: 100%;
+    height:40px;
+    border-radius: 5px;
+    border: 1px solid gray;
+    padding-left: 10px;
+}
+.home_search:focus-visible , .home_search:hover{
+    border: 1px solid gray
+}
+.chatUsers{
+    margin-top: 20px;
+    cursor: pointer;
+}
+.avatar{
+    height: 70px;
+    width: 70px;
+    border-radius: 35px;
+}
+.chatName{
+    font-size: 22px;
+    font-family: muli-bold;
+}
+.chatprevtext{
+    font-size: 16px;
+    font-family: muli-light;
+    color: gray
+
+}
+.createGrpBtn{
+    margin: 10px 0px;
+    border: 1px solid #024d39;
+    height:40px;
+    border-radius: 20px;
+    padding: 5px 20px;
+    float: right;
+    background-color: #047c5c;
+    color:white
+}
+.rightDIvNAv{
+    display: flex;
+    align-items: center;
+    background-color: #a39f9f;
+    height:60px;
+   
+
+}
+.tabImage{
+   height : 50px;
+   width: 50px;
+   border-radius: 25px;
+   margin-left: 20px;
+}
+.tagName{
+    margin-left: 20px;
+    font-size: 26px;
+    font-family: muli-bold;
+    color: white
+}
+.searchDiv{
+    position: absolute;
+    width:100%;
+    height: 50px;
+    bottom: 0px;
+    background-color: #a39f9f;
+}
+.sendMessageText{
+    width:100%;
+    margin: 5px 20px;
+    height:40px;
+    border-radius: 5px;
+    border: none !important;
+    padding-left: 10px ;
+}
+.createGrpBtn1{
+    margin: 5px 0px 0px 30px;
+    border: 1px solid #024d39;
+    height:40px;
+    border-radius: 20px;
+    padding: 5px 20px;
+    background-color: #047c5c;
+    color:white
+}
+.messageMain{
+    background-color: skyblue;
+    padding: 5px 15px;
+    border-radius: 10px;
+}
+.messageMain1{
+    background-color: rgb(230, 135, 235);
+    padding: 5px 15px;
+    border-radius: 10px;
+}
